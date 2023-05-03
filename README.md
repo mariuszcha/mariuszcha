@@ -1,16 +1,12 @@
-### Hi there 👋
+## I'm Mariusz. Welcome to my github page!
+</br>
 
-<!--
-**mariuszcha/mariuszcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/Code-Python-green)
+![](https://img.shields.io/badge/Code-SQL-green)
+![](https://img.shields.io/badge/Tools-TensorFlow-orange)
+![](https://img.shields.io/badge/Tools-NumPy-orange)
+![](https://img.shields.io/badge/Tools-Pandas-orange)
+![](https://img.shields.io/badge/Tools-Matplotlib-orange)
+![](https://img.shields.io/badge/Tools-Docker-blue)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
