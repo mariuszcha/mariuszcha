@@ -1,4 +1,4 @@
-## I'm Mariusz. Welcome to my github page!
+## Welcome to my github page!
 </br>
 
 ![](https://img.shields.io/badge/Code-Python-green)
